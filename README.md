@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 I'm currently a first-year BS Molecular Biology and Biotechnology 🧬 student in University of the Philippines Diliman.
 
 🧪 I like to learn about genomics, CRISPR, and bioinformatics.
+
 💬 I also like music, reading, running, and trying out different restos.
 
 📫 lppresaldo@up.edu.ph
