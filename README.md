@@ -1,4 +1,4 @@
-## Hi, I'm Leij! 👋
+## Hi, I'm Leij! 
 
 <!--
 **ljpresaldo/ljpresaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm currently a first-year BS Molecular Biology and Biotechnology 🧬 student in University of the Philippines Diliman.
+
+🧪 I like to learn about genomics, CRISPR, and bioinformatics.
+💬 I also like music, reading, running, and trying out different restos.
+
+📫 lppresaldo@up.edu.ph
