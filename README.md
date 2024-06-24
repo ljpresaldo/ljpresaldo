@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently a first-year BS Molecular Biology and Biotechnology 🧬 student in University of the Philippines Diliman.
+I'm currently a first-year BS Molecular Biology and Biotechnology 🧬 student from the University of the Philippines Diliman.
 
 🧪 I like to learn about genomics, CRISPR, and bioinformatics.
 
